@@ -95,8 +95,7 @@ The dashboard includes three interactive slicers that dynamically update all cha
 
 ## 📷 Dashboard Preview
 
-![Uploading Vrinda Store Annual Report - 2026.png…]()
-
+<img width="1919" height="1079" alt="Vrinda Store Annual Report - 2026" src="https://github.com/user-attachments/assets/35846457-48c4-4e6c-b8d4-092c7792fe12" />
 
 ---
 
