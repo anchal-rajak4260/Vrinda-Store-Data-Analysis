@@ -103,6 +103,4 @@ The dashboard includes three interactive slicers that dynamically update all cha
 
 **ANCHAL RAJAK**
 Data Analyst | Excel · SQL · Power BI
-[LinkedIn](LinkedIn
-
-https://www.linkedin.com/in/anchal-rajak-a84324263?) · [GitHub](https://github.com)
+[LinkedIn](https://www.linkedin.com/in/anchal-rajak-a84324263) · [GitHub](https://github.com/anchal-rajak4260/Vrinda-Store-Data-Analysis)
