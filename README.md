@@ -51,6 +51,9 @@ vrinda-store-analysis/
 │
 └── README.md
 
+
+<img width="1919" height="1079" alt="Vrinda Store Annual Report - 2026" src="https://github.com/user-attachments/assets/35846457-48c4-4e6c-b8d4-092c7792fe12" />
+
 ---
 
 ## 🧹 Data Cleaning Steps
@@ -86,7 +89,8 @@ The dashboard includes three interactive slicers that dynamically update all cha
 
 ## 📷 Dashboard Preview
 
-![Vrinda Store Dashboard]("C:\Users\harsh\OneDrive\Pictures\Screenshots\Vrinda Store Annual Report - 2026.png")
+![Vrinda Store Dashboard](<img width="1919" height="1079" alt="Vrinda Store Annual Report - 2026" src="https://github.com/user-attachments/assets/35bcdc25-2e23-48ac-8430-6aefc2a6e06c" />
+)
 
 ---
 
