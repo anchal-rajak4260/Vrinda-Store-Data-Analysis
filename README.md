@@ -44,11 +44,17 @@ The interactive Excel dashboard provides a 360° view of store performance with 
 
 vrinda-store-analysis/
 │
+
 ├── Vrinda Store Data Analysis.xlsx
+
 │   ├── Vrinda Store       ← Raw dataset
+
 │   ├── Sheet2–Sheet6      ← Working/calculation sheets
+
 │   └── Excel Dashboard-2026 ← Final interactive dashboard
+
 │
+
 └── README.md
 
 
@@ -89,8 +95,8 @@ The dashboard includes three interactive slicers that dynamically update all cha
 
 ## 📷 Dashboard Preview
 
-![Vrinda Store Dashboard](<img width="1919" height="1079" alt="Vrinda Store Annual Report - 2026" src="https://github.com/user-attachments/assets/35bcdc25-2e23-48ac-8430-6aefc2a6e06c" />
-)
+![Uploading Vrinda Store Annual Report - 2026.png…]()
+
 
 ---
 
